@@ -1,0 +1,17 @@
+{
+    "name": "brandcom/platform",
+    "description": "Composer package for Symfony",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+            "Brandcom\\Platform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Harkály Gergő",
+            "email": "git@harkalygergo.hu"
+        }
+    ],
+    "require": {}
+}
